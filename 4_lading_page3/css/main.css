@@ -1,0 +1,11 @@
+#imgprinsipal{
+	width: 1000px;
+	height: 600px;
+}
+.imgs{
+	width: 200px;
+	height: 200px;
+}
+.borde{
+	border: green solid 10px;
+}

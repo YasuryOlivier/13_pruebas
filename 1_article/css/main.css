@@ -1,0 +1,8 @@
+.fotocirculo{
+	border-radius: 100%;
+}
+img{
+	border: solid 2px green; 
+	width: 100%;
+	height: 100%;
+}

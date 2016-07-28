@@ -1,0 +1,10 @@
+.arriba{
+	width: 400px;
+	height: 300px;
+}
+.circulo{
+	border-radius: 100%;
+	width: 70%;
+	height: 70%;
+}
+

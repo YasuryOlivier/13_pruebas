@@ -1,0 +1,10 @@
+.circulo{
+	border-radius: 100%;
+}
+.imgarriba{
+	width: 200px;
+	height: 200px;
+}
+.borde{
+	border: solid 8px blue;
+}
